@@ -1,4 +1,4 @@
-<img src="assets/banner.png" alt="Andro Petrosyan, founder of Vista Studio, Tbilisi" width="100%">
+<img src="assets/banner.png" alt="Andro Petrosyan, designer and developer, Tbilisi" width="100%">
 
 I design and build websites and brands at [Vista Studio](https://madebyvista.com), a small studio in Tbilisi, Georgia. Design and code by the same hands, in Georgian and English.
 
